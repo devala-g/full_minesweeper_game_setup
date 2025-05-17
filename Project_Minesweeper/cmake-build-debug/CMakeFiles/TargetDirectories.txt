@@ -1,0 +1,3 @@
+/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug/CMakeFiles/Project_Minesweeper.dir

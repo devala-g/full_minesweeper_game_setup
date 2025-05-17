@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Project_Minesweeper"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_Minesweeper">
+				<Option output="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug/Project_Minesweeper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_Minesweeper"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Project_Minesweeper/fast">
+				<Option output="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug/Project_Minesweeper" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 Project_Minesweeper/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/devala/Desktop/School_and_Learning/z.\ Old/Prog_2/z.\ Old/Project_Minesweeper/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/Board.cpp">
+			<Option target="Project_Minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/Board.h">
+			<Option target="Project_Minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/Random.cpp">
+			<Option target="Project_Minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/Random.h">
+			<Option target="Project_Minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/TextureManager.cpp">
+			<Option target="Project_Minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/TextureManager.h">
+			<Option target="Project_Minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/Tile.cpp">
+			<Option target="Project_Minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/Tile.h">
+			<Option target="Project_Minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/main.cpp">
+			<Option target="Project_Minesweeper"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/../../../../../../../../usr/local/lib/cmake/SFML/SFMLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/../../../../../../../../usr/local/lib/cmake/SFML/SFMLConfigDependencies.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/../../../../../../../../usr/local/lib/cmake/SFML/SFMLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/../../../../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+		<Unit filename="/Users/devala/Desktop/School_and_Learning/z. Old/Prog_2/z. Old/Project_Minesweeper/../../../../../../../../usr/local/lib/cmake/SFML/SFMLSharedTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\local\lib\cmake\SFML\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
